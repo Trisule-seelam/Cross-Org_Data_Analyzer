@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Config_Field_3_2__c</fullName>
+    <defaultValue>false</defaultValue>
+    <label>Config Field 3.2</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
