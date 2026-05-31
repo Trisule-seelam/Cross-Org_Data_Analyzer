@@ -3,7 +3,7 @@
     <fullName>Config_Field_3_1__c</fullName>
     <externalId>false</externalId>
     <label>Config Field 3.1</label>
-    <length>10</length>
+    <length>30</length>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Text</type>
